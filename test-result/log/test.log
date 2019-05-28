@@ -1,0 +1,27 @@
+2018-06-02 08:42:11.663 INFO  com.framework.utils.ExcelUtils.<init>:48 - Excel 所在的文件路径：F:/java/workspace/AppUI-master/test-datas
+2018-06-02 08:42:11.666 INFO  com.framework.utils.ExcelUtils.<init>:50 - Excel 文件名称：android-test-appium-demo.xlsx
+2018-06-02 08:42:11.666 INFO  com.framework.utils.ExcelUtils.<init>:53 - Excel 文件绝对路径：F:/java/workspace/AppUI-master/test-datas\android-test-appium-demo.xlsx
+2018-06-02 08:42:11.667 INFO  com.framework.utils.FileUtils.readFile:42 - 构建 FileInputStream 成功
+2018-06-02 08:42:11.668 INFO  com.framework.utils.ExcelUtils.getExcelType:94 - Excel 文件类型：xlsx
+2018-06-02 08:42:11.668 INFO  com.framework.utils.ExcelUtils.getExcelType:94 - Excel 文件类型：xlsx
+2018-06-02 08:42:12.169 INFO  com.framework.utils.ExcelUtils.<init>:48 - Excel 所在的文件路径：F:/java/workspace/AppUI-master/test-datas
+2018-06-02 08:42:12.170 INFO  com.framework.utils.ExcelUtils.<init>:50 - Excel 文件名称：android-test-appium-demo.xlsx
+2018-06-02 08:42:12.170 INFO  com.framework.utils.ExcelUtils.<init>:53 - Excel 文件绝对路径：F:/java/workspace/AppUI-master/test-datas\android-test-appium-demo.xlsx
+2018-06-02 08:42:12.170 INFO  com.framework.utils.FileUtils.readFile:42 - 构建 FileInputStream 成功
+2018-06-02 08:42:12.171 INFO  com.framework.utils.ExcelUtils.getExcelType:94 - Excel 文件类型：xlsx
+2018-06-02 08:42:12.171 INFO  com.framework.utils.ExcelUtils.getExcelType:94 - Excel 文件类型：xlsx
+2018-06-02 08:42:12.217 DEBUG com.framework.utils.FileUtils.createFile:84 - 创建文件：/test-result/report/android-test-appium-demo.xlsx-2018_06_02_08_42_12.html
+2018-06-02 08:42:12.510 INFO  com.framework.utils.ExcelUtils.readTestDatas:322 - 正在读取的表名：配置
+2018-06-02 08:42:12.511 INFO  com.framework.utils.ExcelUtils.readTestDatas:326 - 正在读取第 2 行
+2018-06-02 08:42:12.511 INFO  com.framework.utils.ExcelUtils.readTestDatas:327 - 需要读取的列数：5
+2018-06-02 08:42:12.841 INFO  com.appium.manager.android.AndroidConfig.getDeviceName:181 - 获取到设备 [5d13c494] 的名称：[Xiaomi_MINOTELTE]
+2018-06-02 08:42:13.024 INFO  com.appium.manager.android.AndroidConfig.getDeviceOSVersion:213 - 获取到设备 [5d13c494] 的系统版本号为 [6.0.1]
+2018-06-02 08:42:13.215 INFO  com.appium.manager.android.AndroidConfig.getDeviceOSVersion:213 - 获取到设备 [5d13c494] 的系统版本号为 [6.0.1]
+2018-06-02 08:42:13.389 INFO  com.appium.manager.android.AndroidConfig.getDeviceOSVersion:213 - 获取到设备 [5d13c494] 的系统版本号为 [6.0.1]
+2018-06-02 08:42:14.599 INFO  com.appium.manager.android.AndroidConfig.unlockDevice:272 - 在设备 [5d13c494] 解锁成功
+2018-06-02 08:42:15.795 INFO  com.appium.manager.android.AndroidConfig.checkAppIsInstalled:334 - 在设备 [5d13c494] 上，[com.prgguru.android] 应用已安装
+2018-06-02 08:42:15.798 INFO  com.appium.locator.InitLocator.getAndroidLocator:98 - the capability: Capabilities [{appPackage=com.prgguru.android, app=/src/test/resources/IntentExample.apk, noReset=true, deviceName=Xiaomi_MINOTELTE, appActivity=com.prgguru.android.IntentExampleActivity, newCommandTimeout=60, platformVersion=6.0.1, automationName=UIAutomator2, skipUnlock=true, autoGrantPermissions=true, unicodeKeyboard=true, platformName=Android, udid=5d13c494, resetKeyboard=true, systemPort=64251}]
+2018-06-02 08:42:17.254 INFO  com.appium.manager.android.AndroidConfig.getDefaultInputMethod:429 - 在设备 [5d13c494] 获取到默认输入法：com.sohu.inputmethod.sogou.xiaomi/.SogouIME
+
+
+2018-06-02 08:42:17.273 DEBUG com.framework.utils.FileUtils.createFile:84 - 创建文件：/test-result/log/Xiaomi_MINOTELTE-5d13c494__2018_06_02_08_42_17.txt

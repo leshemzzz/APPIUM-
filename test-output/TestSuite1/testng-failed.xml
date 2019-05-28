@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [TestSuite1]" parallel="tests">
+  <test thread-count="2" name="test1(failed)" parallel="tests">
+    <parameter name="deviceNum" value="2"/>
+    <classes>
+      <class name="com.appium.keyword.android.AndroidParallelTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+          <include name="testLogin"/>
+        </methods>
+      </class> <!-- com.appium.keyword.android.AndroidParallelTest -->
+    </classes>
+  </test> <!-- test1(failed) -->
+</suite> <!-- Failed suite [TestSuite1] -->
